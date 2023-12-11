@@ -135,8 +135,6 @@ public class HomePage {
 //    public WebElement cookiePolicyTitle;
 //    @FindBy()
 //    public WebElement cookiePolicyTitle;
-    //TODO: yarım kaldı tamamlanacak.
-
     //-----------------------------------------------------------------------------
 
 
