@@ -4,29 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="174377a8-de6d-4aae-a241-ce9d1e21f54a" name="Changes" comment="New">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AndroidPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/WebPages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/WebPages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/iOSPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Android_Definitions/A_GeneralDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Web_Definitions/W_CookiesDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Web_Definitions/W_GeneralDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Web_Definitions/W_LoginDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Appium_DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Web_DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Android_Cases/US001_HomepageAccessibility.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Web_Cases/US001_HomepageAccessibility.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Web_Cases/US002_Cookies.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Web_Cases/US003_SignUp.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Web_Cases/US004_UserLogins.feature" afterDir="false" />
+    <list default="true" id="174377a8-de6d-4aae-a241-ce9d1e21f54a" name="Changes" comment="web driver and mobile test are done">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/APIpages/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/APIpages/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/APIpages/GetRequest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/API_Base.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +70,26 @@
       <option name="project" value="LOCAL" />
       <updated>1702322152184</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="web driver and mobile test are done">
+      <created>1702326135880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702326135880</updated>
+    </task>
+    <task id="LOCAL-00003" summary="web driver and mobile test are done">
+      <created>1702326150884</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702326150884</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New" />
-    <option name="LAST_COMMIT_MESSAGE" value="New" />
+    <MESSAGE value="web driver and mobile test are done" />
+    <option name="LAST_COMMIT_MESSAGE" value="web driver and mobile test are done" />
   </component>
 </project>
